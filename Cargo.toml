@@ -1,0 +1,13 @@
+[package]
+name = "multichain-memo-address-validator"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Zero-dependency Rust library for 46-chain cryptocurrency address format, checksum, and destination memo validation."
+homepage = "https://allswap.io/tools/address-validator"
+repository = "https://github.com/mh185/multichain-memo-address-validator-rs"
+readme = "README.md"
+keywords = ["crypto", "blockchain", "address", "validator", "cross-chain"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
